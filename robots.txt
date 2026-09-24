@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dhbg1273.github.io/AgroCrovador/sitemap.xml
